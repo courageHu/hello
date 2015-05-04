@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BFC8CDF21AF67D7800BA9341"
-               BuildableName = "first oc"
-               BlueprintName = "first oc"
-               ReferencedContainer = "container:first oc.xcodeproj">
+               BlueprintIdentifier = "BFC8CE051AF67DB500BA9341"
+               BuildableName = "the first oc"
+               BlueprintName = "the first oc"
+               ReferencedContainer = "container:the first oc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BFC8CDF21AF67D7800BA9341"
-            BuildableName = "first oc"
-            BlueprintName = "first oc"
-            ReferencedContainer = "container:first oc.xcodeproj">
+            BlueprintIdentifier = "BFC8CE051AF67DB500BA9341"
+            BuildableName = "the first oc"
+            BlueprintName = "the first oc"
+            ReferencedContainer = "container:the first oc.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BFC8CDF21AF67D7800BA9341"
-            BuildableName = "first oc"
-            BlueprintName = "first oc"
-            ReferencedContainer = "container:first oc.xcodeproj">
+            BlueprintIdentifier = "BFC8CE051AF67DB500BA9341"
+            BuildableName = "the first oc"
+            BlueprintName = "the first oc"
+            ReferencedContainer = "container:the first oc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BFC8CDF21AF67D7800BA9341"
-            BuildableName = "first oc"
-            BlueprintName = "first oc"
-            ReferencedContainer = "container:first oc.xcodeproj">
+            BlueprintIdentifier = "BFC8CE051AF67DB500BA9341"
+            BuildableName = "the first oc"
+            BlueprintName = "the first oc"
+            ReferencedContainer = "container:the first oc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
